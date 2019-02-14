@@ -1,7 +1,7 @@
 # info-gempa
 Tools ini akan memberikan info gempa terkini yang di ambil langsung dari BMKG
 
-*How to Install*
+How to Install
 ```
 $ apt update && apt upgrade-y
 $ apt install php git -y
